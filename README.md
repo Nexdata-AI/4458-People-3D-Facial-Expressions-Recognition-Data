@@ -1,8 +1,10 @@
 # 4458-People-3D-Facial-Expressions-Recognition-Data
-https://www.datatang.ai/datasets/1097
+
 
 ## Description
 4,458 People - 3D Facial Expressions Recognition Data. The collection scenes include indoor scenes and outdoor scenes. The dataset includes males and females. The age distribution ranges from juvenile to the elderly, the young people and the middle aged are the majorities. The device includes iPhone X, iPhone XR. The data diversity includes different expressions, different ages, different races, different collecting scenes. This data can be used for tasks such as 3D facial expression recognition.
+
+For more details, please refer to the link: https://bit.ly/3C9PrDS
 
 ## Data size
 4,458 people, 7 kinds of 3D expressions were collected for each person
@@ -27,3 +29,6 @@ label the person – ID, race, gender, age, expression action, collecting scene
 
 ## Accuracy
 based on the accuracy of the actions, the accuracy exceeds 97%; the accuracy of labels is not less than 97%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
