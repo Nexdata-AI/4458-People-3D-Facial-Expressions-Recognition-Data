@@ -4,7 +4,8 @@
 ## Description
 4,458 People - 3D Facial Expressions Recognition Data. The collection scenes include indoor scenes and outdoor scenes. The dataset includes males and females. The age distribution ranges from juvenile to the elderly, the young people and the middle aged are the majorities. The device includes iPhone X, iPhone XR. The data diversity includes different expressions, different ages, different races, different collecting scenes. This data can be used for tasks such as 3D facial expression recognition.
 
-For more details, please refer to the link: https://bit.ly/3C9PrDS
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1097?source=Github
+
 
 ## Data size
 4,458 people, 7 kinds of 3D expressions were collected for each person
