@@ -1,0 +1,13 @@
+{
+    "Camera Parameters": [
+        {
+            "ppx": 238.01158700600038,
+            "ppy": 317.74300518134714,
+            "fx": 595.4024415476929,
+            "fy": 596.3896373056995,
+            "model": "distortion.brown_conrady",
+            "width": 480,
+            "height": 640
+        }
+    ]
+}
